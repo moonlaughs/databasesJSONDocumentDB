@@ -1,0 +1,14 @@
+[
+    {"id":1, "name":"X", "lastName":"AA", "age":10, "civilStatus":"single",
+    "friends":[
+        {"id":2, "name":"B"},
+        {"id":3, "name":"C"}
+    ]},
+    {"id":2, "name":"B", "lastName":"BB", "age":20, "civilStatus":"married"},
+    {"id":3, "name":"C", "lastName":"CC", "age":30, "civilStatus":"single"},
+    {"id":4, "name":"D", "lastName":"DD", "age":40, "civilStatus":"married",
+    "friends":[
+        {"id":3, "name":"C"},
+        {"id":1, "name":"X"}
+    ]}
+]

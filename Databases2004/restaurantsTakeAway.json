@@ -1,0 +1,21 @@
+[
+    {
+        "id":"3465837453738654834",
+        "name":"Fancy Burgers",
+        "address":"Street 1",
+        "orders":[
+            {
+                "id":"757574656536",
+                "total":6000,
+                "userId":1,
+                "userName":"A",
+                "phone":"92369423",
+                "address":"Street 2",
+                "items":[
+                    {"id":1,"price":1000,"name":"Bacon Burger", "quantity":1, "total":1000},
+                    {"id":2,"price":2500,"name":"Bacon Burger Double", "quantity":2, "total":5000}
+                ]
+            }
+        ]
+    }
+]

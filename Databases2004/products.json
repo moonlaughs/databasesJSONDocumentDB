@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "name":"P1",
+        "price":1000,
+        "height":1,
+        "weights":1,
+        "color":"blue"
+    },
+    {
+        "id":2,
+        "name":"P2",
+        "price":2000
+    }
+]
